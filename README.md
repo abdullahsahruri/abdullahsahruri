@@ -61,13 +61,6 @@ I design and evaluate secure hardware. My current research blends **Threshold Lo
 
 ---
 
-### How to reach me
-- Email: abdullah.sahruri@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/abdullahsahruri/
-- Scholar: https://scholar.google.com/citations?user=vYw5gWcAAAAJ&hl=en
-
----
-
 ### Fun corner
 When I’m not simulating or synthesizing, I’m usually drinking coffee, or renaming signals more times than I care to admit.
 
