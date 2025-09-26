@@ -16,7 +16,7 @@
 ---
 
 ### About me
-I design and evaluate secure hardware. My current research blends **Threshold Logic Gates (TLGs)**, **logic locking**, and **compute-in-memory** with **hyperdimensional computing (HDC)**. On the practical side, I build flows that span **Cadence**, **Yosys/ABC**, **OpenROAD/OpenLane**, and FPGA acceleration (Xilinx **Alveo U200**, Vitis-AI).
+I design and evaluate secure hardware. My current research blends **Threshold Logic Gates (TLGs)**, **logic locking**, and **compute-in-memory** with **hyperdimensional computing (HDC)**. On the practical side, I build flows that span **Cadence**, **Yosys/ABC**, and  **OpenROAD/OpenLane**.
 
 - 🔬 Research threads: TLG-based locking, HDC-CAM for associative search, secure CiM
 - 🧪 Toolchains: Cadence Virtuoso / Liberate, ngspice/Spectre, Yosys + ABC, OpenROAD/OpenLane
