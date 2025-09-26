@@ -25,25 +25,32 @@ I design and evaluate secure hardware. My current research blends **Threshold Lo
 
 ---
 
-### What I’m working on
-- **Secure CMOS-based CAM for HDC** — analog-aware match sensing, logic locking, side-channel countermeasures  
-- **TLG-Lock** — automated locking + SAT evaluation (MiniSAT), CSV dashboards, reproducible makefiles  
-- **Approximate in-memory MACs** — RRAM/CiM exploration with tunable precision
+### Publications
 
-> _If you’re tackling PUFs, logic locking, or HDC hardware—let’s chat._
+- **Detecting Vulnerability in Hardware Description Languages: Opcode Language Processing**  
+  A. G. Ayar, **A. Sahruri**, S. Aygun, M. S. Moghadam, M. H. Najafi, M. Margala  
+  *IEEE Embedded Systems Letters*, 2023.  
+  DOI: [10.1109/LES.2023.3334728](https://doi.org/10.1109/LES.2023.3334728)
 
----
+- **HiCTL: High Fan-in Differential Capacitive-Threshold Logic Gate Implementation**  
+  **A. Sahruri**, M. Margala, U. Cilingiroglu  
+  *ISQED*, 2024.  
+  DOI: [10.1109/ISQED60706.2024.10528704](https://doi.org/10.1109/ISQED60706.2024.10528704)
 
-### Selected publications & preprints
-- **TLG-based Logic Locking:** methods, SAT resistance, and evaluation flow (VLSI-SoC'26)  
-- **HiCTL: High Fan-in Differential Capacitive-Threshold-Logic Gate Implementation With An Offset-Compensated Comparator** The comparator utilized in this work reduces its offset in a very compact area by utilizing a purely capacitive feedback loop. The gate performs sum-of-product and thresholding operations by setting the minimum-sized MOSFET capacitors individually (ISQED'24)
-- _More on_ **Google Scholar** → *(link above)*
+- **TLGLock: A New Approach in Logic Locking Using Key-Driven Charge Recycling in Threshold Logic Gates**  
+  **A. Sahruri**, M. Margala  
+  *VLSI-SoC*, 2025.  
+  Preprint DOI: [10.48550/arXiv.2508.17809](https://doi.org/10.48550/arXiv.2508.17809)
 
+> More on **Google Scholar** → *(link above)*
 <details>
-<summary>Expand for abstracts</summary>
+<summary><b>Expand for brief abstracts</b></summary>
 
-- **TLG-Lock** — We introduce a threshold-logic-centric locking primitive with a reproducible SAT evaluation harness (runtime, clauses, conflicts).
-- **HiCTL: High Fan-in Differential Capacitive-Threshold-Logic Gate Implementation With An Offset-Compensated Comparator** — The comparator utilized in this work reduces its offset in a very compact area by utilizing a purely capacitive feedback loop. The gate performs sum-of-product and thresholding operations by setting the minimum-sized MOSFET capacitors individually.
+- **Opcode Language Processing (ESL'23):** We analyze HDL opcode sequences to surface vulnerability patterns using lightweight language-processing techniques.
+
+- **HiCTL (ISQED'24):** A high fan-in capacitive threshold logic gate with an offset-compensated comparator; the purely capacitive feedback cuts comparator offset with compact area.
+
+- **TLGLock (VLSI-SoC'25):** A threshold-logic-centric locking primitive with a reproducible SAT evaluation harness (runtime, clauses, conflicts).
 </details>
 
 ---
