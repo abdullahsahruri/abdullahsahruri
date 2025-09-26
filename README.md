@@ -1,4 +1,4 @@
-<!-- Profile README for @<your-username> -->
+<!-- Profile README for @abdullahsahruri -->
 <!-- Tip: press "." on GitHub to open this in the web editor with Copilot enabled -->
 
 <h1 align="center">Hi, I'm Abdullah 👋</h1>
@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="[https://scholar.google.com/citations?user=vYw5gWcAAAAJ&hl=en]"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/abdullahsahruri/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:abdullah.sahruri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact%40example.com-DA3B01"></a>
+  <a href="https://scholar.google.com/citations?user=vYw5gWcAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abdullahsahruri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:abdullah.sahruri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdullah.sahruri%40gmail.com-DA3B01"></a>
 </p>
 
 ---
@@ -63,7 +63,7 @@ I design and evaluate secure hardware. My current research blends **Threshold Lo
 ### How to reach me
 - Email: abdullah.sahruri@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/abdullahsahruri/
-- Scholar: [https://scholar.google.com/citations?user=vYw5gWcAAAAJ&hl=en]
+- Scholar: https://scholar.google.com/citations?user=vYw5gWcAAAAJ&hl=en
 
 ---
 
@@ -75,7 +75,7 @@ When I’m not simulating or synthesizing, I’m usually drinking coffee, or ren
 <!-- Optional: GitHub stats (comment out if you prefer minimal) -->
 <!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_title=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahsahruri&show_icons=true&hide_title=true" alt="GitHub stats">
 </p>
 -->
 
