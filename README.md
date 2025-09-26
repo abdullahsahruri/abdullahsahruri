@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Abdullah 👋</h1>
 <p align="center">
-  ASIC Engineer · PhD Candidate @ UL Lafayette · Hardware Security & Multi-Valued Input Logic
+  ASIC Engineer · PhD Candidate @ UL Lafayette · Hardware Security & Threshold Logic Gates (Somtimes called Multi-Valued Input Logic the former sounds cooler though)
 </p>
 
 <p align="center">
