@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Abdullah 👋</h1>
 <p align="center">
-  VLSI Engineer · PhD Student @ UL Lafayette · Hardware Security & In-Memory Computing
+  ASIC Engineer · PhD Candidate @ UL Lafayette · Hardware Security & Multi-Valued Input Logic
 </p>
 
 <p align="center">
