@@ -34,15 +34,15 @@ I design and evaluate secure hardware. My current research blends **Threshold Lo
 ---
 
 ### Selected publications & preprints
-- **TLG-based Logic Locking:** methods, SAT resistance, and evaluation flow (under review / submitted)  
-- **Secure HDC-CAM:** associative search with locking & side-channel mitigations (in preparation)  
+- **TLG-based Logic Locking:** methods, SAT resistance, and evaluation flow (VLSI-SoC'26)  
+- **HiCTL: High Fan-in Differential Capacitive-Threshold-Logic Gate Implementation With An Offset-Compensated Comparator** The comparator utilized in this work reduces its offset in a very compact area by utilizing a purely capacitive feedback loop. The gate performs sum-of-product and thresholding operations by setting the minimum-sized MOSFET capacitors individually (ISQED'24)
 - _More on_ **Google Scholar** → *(link above)*
 
 <details>
 <summary>Expand for abstracts</summary>
 
-- **TLG-Lock** — We introduce a threshold-logic-centric locking primitive with calibrated FRR/MI trade-offs, plus a reproducible SAT evaluation harness (runtime, clauses, conflicts).
-- **HDC-CAM** — A CMOS CAM tailored for hypervectors with analog-aware sensing, dummy rows, and logic-locking hooks for secure similarity search.
+- **TLG-Lock** — We introduce a threshold-logic-centric locking primitive with a reproducible SAT evaluation harness (runtime, clauses, conflicts).
+- **HiCTL: High Fan-in Differential Capacitive-Threshold-Logic Gate Implementation With An Offset-Compensated Comparator** — The comparator utilized in this work reduces its offset in a very compact area by utilizing a purely capacitive feedback loop. The gate performs sum-of-product and thresholding operations by setting the minimum-sized MOSFET capacitors individually.
 </details>
 
 ---
