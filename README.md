@@ -62,7 +62,7 @@ I design and evaluate secure hardware. My current research blends **Threshold Lo
 
 ### How to reach me
 - Email: abdullah.sahruri@gmail.com  
-- LinkedIn: [/in/your-handle](https://www.linkedin.com/in/abdullahsahruri/)  
+- LinkedIn: [https://www.linkedin.com/in/abdullahsahruri/]
 - Scholar: [scholar.google.com/your-id](https://scholar.google.com/citations?user=vYw5gWcAAAAJ&hl=en)
 
 ---
