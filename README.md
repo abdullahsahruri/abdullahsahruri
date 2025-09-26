@@ -10,6 +10,7 @@
   <a href="https://scholar.google.com/citations?user=vYw5gWcAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-4285F4?logo=googlescholar&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/abdullahsahruri/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:abdullah.sahruri@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdullah.sahruri%40gmail.com-DA3B01"></a>
+  <a href="https://orcid.org/0000-0002-1825-0097"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0002--1825--0097-A6CE39?logo=orcid&logoColor=white"></a>
 </p>
 
 ---
