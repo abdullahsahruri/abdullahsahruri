@@ -55,8 +55,8 @@ I design and evaluate secure hardware. My current research blends **Threshold Lo
 
 ---
 
-### Tech I use (and enjoy)
-`Cadence` · `Spectre/ngspice` · `Yosys/ABC` · `OpenROAD/OpenLane` · `Vitis-AI` · `Python` · `Verilog` · `SystemVerilog` · `TCL` · `Git/GitHub` · `LaTeX/IEEEtran`
+### Everything I use (and enjoy)
+`Cadence` · `Spectre/ngspice` · `Yosys/ABC` · `OpenROAD/OpenLane` · `Vitis-AI` · `Python` · `Verilog` · `SystemVerilog` · `TCL`
 
 ---
 
